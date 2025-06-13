@@ -2,7 +2,7 @@
 ```
 !! LINK TO SLIDES: https://docs.google.com/presentation/d/1s0qnTVRW5fb5rurYUZSyWt1Kf7ApiaHIElQswJty0ls/edit?usp=sharing !!
 
-Only use Python 3.10 or 3.11 on Visual Studio Code.
+Only use Python 3.10 or preferably 3.11 on Visual Studio Code.
 You need to install the following modules:
     tensorflow-cpu==2.15.0, opencv-python, pyautogui, numpy, matplotlib, Pillow
 
