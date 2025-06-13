@@ -9,7 +9,8 @@ In your Visual Studio Code folder, you should have these three items:
     haarcascade_frontalface_default.xml,
     eyes.tflite
 
-Install the Google Chrome extension, Read Aloud: A Text TO Speech Voice Reader 2.20.0 (https://chromewebstore.google.com/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en)
+Install the Google Chrome extension, Read Aloud: A Text TO Speech Voice Reader 2.20.0
+(https://chromewebstore.google.com/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en)
 
 Enter chrome://extensions/shortcuts in your browser.
 Find "Read Aloud: A Text to Speech Voice Reader".
