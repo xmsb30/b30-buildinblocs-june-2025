@@ -17,3 +17,10 @@ Find "Read Aloud: A Text to Speech Voice Reader".
 Under "Activate the extension", set the shortcut to Alt + 0
 
 Run main.py (ensure that camera access is enabled)
+Within 10 seconds, switch to a news article site.
+
+If squinting for more than 5 seconds, article will zoom in by 10%.
+After 30 seconds of not squinting, article will zoom out by 10%.
+(min zoom: 100%, max zoom: 190%)
+
+WW
