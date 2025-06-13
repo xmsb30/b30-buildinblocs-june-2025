@@ -1,5 +1,7 @@
 # b30-buildinblocs-june-2025
 ```
+!! LINK TO SLIDES: https://docs.google.com/presentation/d/1s0qnTVRW5fb5rurYUZSyWt1Kf7ApiaHIElQswJty0ls/edit?usp=sharing !!
+
 Only use Python 3.10 or 3.11 on Visual Studio Code.
 You need to install the following modules:
     tensorflow-cpu==2.15.0, opencv-python, pyautogui, numpy, matplotlib, Pillow
@@ -23,4 +25,5 @@ If squinting for more than 5 seconds, article will zoom in by 10%.
 After 30 seconds of not squinting, article will zoom out by 10%.
 (min zoom: 100%, max zoom: 190%)
 
-WW
+Once the article has zoomed in 4 times, narrator mode will automatically activate.
+To exit the program, press 'q' on the keyboard.
